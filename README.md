@@ -6,4 +6,6 @@
 <br/>
 <br/>
 
+<h1>Preview Image</h1>
+
 [<img src="Preview Image.png" width = "1000">](https://michaeltr7.github.io/8-Bit-HTML/)
